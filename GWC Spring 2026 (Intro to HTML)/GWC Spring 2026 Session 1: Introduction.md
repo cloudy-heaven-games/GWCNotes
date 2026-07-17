@@ -105,7 +105,7 @@ So now your code should look like this:
 
 Now you should see some changes in the preview section:
 
-
+<img width="1258" height="240" alt="Image" src="https://github.com/user-attachments/assets/2fafb3ef-f8de-4236-aa60-a312fc5a3bab" />
 
 ### Summary ###
 For this lesson, there was not a lot of coding to do, but more so getting a basic web page project set up, and making some slight changes to the code. 
